@@ -81,3 +81,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://amaze.directory/tools/honer-ai" rel="dofollow"><img src="https://amaze.directory/badge/dark.svg" alt="Submission channel: Amaze" width="160"></a>
 
 <a href="https://letslaunch.today/product/honer-ai" rel="dofollow"><img src="https://letslaunch.today/badge/honer-ai.svg" alt="Submission channel: LetsLaunch" width="160"></a>
+
+<a href="https://goodaitools.com/ai/xoner4-github" rel="dofollow"><img src="https://goodaitools.com/assets/images/badge.png" alt="Submission channel: Good AI Tools" width="160"></a>
