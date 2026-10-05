@@ -120,4 +120,3 @@ Directory submission channels (review pending; these links do not imply approval
 
 
 
-<a href="https://aigc160.com/ai/xoner4-github" rel="dofollow"><img src="https://aigc160.com/assets/images/badge.png" alt="Submission channel: AIGC 160" width="160"></a>
