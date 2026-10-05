@@ -99,3 +99,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://ashlist.com/product/xoner4-github" rel="dofollow"><img src="https://ashlist.com/assets/images/badge.png" alt="Submission channel: Ash List" width="160"></a>
 
 <a href="https://realisticai.io" rel="dofollow">Realistic AI - DokeyAI submission partner</a>
+
+<a href="https://latestaiupdates.com/ai/xoner4-github" rel="dofollow"><img src="https://latestaiupdates.com/assets/images/badge.png" alt="Submission channel: Latest AI Updates" width="160"></a>
