@@ -91,3 +91,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://navfolders.com/" rel="dofollow"><img src="https://navfolders.com/badge/nav_transparent.svg" alt="Submission channel: NavFolders" width="160"></a>
 
 <a href="https://aitechviral.com/ai/xoner4-github" rel="dofollow"><img src="https://aitechviral.com/assets/images/badge.png" alt="Submission channel: AI Tech Viral" width="160"></a>
+
+<a href="https://weliketools.com/tool/xoner4-github" rel="dofollow"><img src="https://weliketools.com/assets/images/badge.png" alt="Submission channel: We Like Tools" width="160"></a>
