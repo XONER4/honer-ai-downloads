@@ -58,3 +58,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://launchkoala.com/products/product-02e2e0be" rel="dofollow"><img src="https://launchkoala.com/brand-new/badges/launchkoala-featured-badge.svg" alt="Submission channel: LaunchKoala" width="160"></a>
 
 <a href="https://neeed.directory/" rel="dofollow"><img src="https://neeed.directory/badges/neeed-badge-light.svg" alt="Submission channel: neeed.directory" width="160"></a>
+
+<a href="https://tooldirs.com/" rel="dofollow"><img src="https://tooldirs.com/badge/badge_light.svg" alt="Submission channel: ToolDirs" width="160"></a>
