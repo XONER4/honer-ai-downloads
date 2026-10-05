@@ -48,3 +48,4 @@ Directory submission channels (review pending; these links do not imply approval
 
 <a href="https://deeplaunch.io/" rel="dofollow"><img src="https://deeplaunch.io/badge/badge_light.svg" alt="Submission channel: DeepLaunch.io" width="160"></a>
 - [AI Toolz Dir](https://www.aitoolzdir.com/)
+- [SaaS Cubes](https://saascubes.com/)
