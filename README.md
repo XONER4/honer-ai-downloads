@@ -101,3 +101,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://realisticai.io" rel="dofollow">Realistic AI - DokeyAI submission partner</a>
 
 <a href="https://latestaiupdates.com/ai/xoner4-github" rel="dofollow"><img src="https://latestaiupdates.com/assets/images/badge.png" alt="Submission channel: Latest AI Updates" width="160"></a>
+
+<a href="https://postmake.io" rel="dofollow"><img src="https://postmake.io/postmake_badge_light.png" alt="Submission channel: Postmake" width="160"></a>
