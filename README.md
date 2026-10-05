@@ -27,3 +27,5 @@ Directory submission channels (review pending; these links do not imply approval
 - [doforai.tools](https://doforai.tools/)
 - [AISuperHub](https://www.aisuperhub.io/)
 - [AiHubs](https://aihubs.ai/)
+- [AIHuntList](https://aihuntlist.com/)
+- [Twelve Tools](https://twelve.tools/)
