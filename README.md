@@ -22,3 +22,7 @@ APK SHA-256: `889de9bd5390f067400a771242939e4f73f9c57e6a801196a4e89cfe0962c7d9`
 
 This repository distributes compiled releases and public product information.
 Honer AI is proprietary; its application source code is not distributed here.
+
+Directory submission channels (review pending; these links do not imply approval):
+- [doforai.tools](https://doforai.tools/)
+- [AISuperHub](https://www.aisuperhub.io/)
