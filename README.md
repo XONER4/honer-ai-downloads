@@ -121,4 +121,3 @@ Directory submission channels (review pending; these links do not imply approval
 
 
 
-<a href="https://besttoolvault.com/tool/xoner4-github" rel="dofollow"><img src="https://besttoolvault.com/assets/images/badge.png" alt="Submission channel: Best Tool Vault" width="160"></a>
