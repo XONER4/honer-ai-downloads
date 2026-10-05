@@ -85,3 +85,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://goodaitools.com/ai/xoner4-github" rel="dofollow"><img src="https://goodaitools.com/assets/images/badge.png" alt="Submission channel: Good AI Tools" width="160"></a>
 
 <a href="https://www.promptfrenzy.com/directory" rel="dofollow"><img src="https://www.promptfrenzy.com/badges/directory-mono-dark.svg" alt="Submission channel: PromptFrenzy" width="160"></a>
+
+<a href="https://aipulse.fyi" rel="dofollow">AI Pulse - AI Tools Directory</a>
