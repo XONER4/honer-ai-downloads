@@ -77,3 +77,5 @@ Directory submission channels (review pending; these links do not imply approval
     <span style="font-size:10px;color:#878C79">REVIEWED ✓</span>
   </span>
 </a>
+
+<a href="https://amaze.directory/tools/honer-ai" rel="dofollow"><img src="https://amaze.directory/badge/dark.svg" alt="Submission channel: Amaze" width="160"></a>
