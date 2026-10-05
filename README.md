@@ -67,3 +67,13 @@ Directory submission channels (review pending; these links do not imply approval
 
 <a href="https://acidtools.com/ai/xoner4-github" rel="dofollow"><img src="https://acidtools.com/assets/images/badge.png" alt="Submission channel: AcidTools" width="160"></a>
 - [Launched.tools](https://launched.tools/tools/honer-ai)
+
+<a href="https://launched.tools/tools/honer-ai" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;background:#FFFFFF;border:1px solid #D4D7C9;border-radius:10px;padding:8px 12px;text-decoration:none;font-family:sans-serif">
+  <span style="width:22px;height:22px;border-radius:6px;background:#C6F94E;display:inline-flex;align-items:center;justify-content:center">
+    <svg width="13" height="13" viewBox="128 120 264 264"><path d="M214 120 L392 120 L392 298 Z" fill="#15170F"></path><path d="M156 356 L322 190" stroke="#15170F" stroke-width="78" fill="none"></path></svg>
+  </span>
+  <span style="display:flex;flex-direction:column;line-height:1.2">
+    <span style="font-weight:700;font-size:12px;color:#15170F">Featured on launched.tools</span>
+    <span style="font-size:10px;color:#878C79">REVIEWED ✓</span>
+  </span>
+</a>
