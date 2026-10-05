@@ -113,3 +113,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://superaiboom.com/ai/xoner4-github" rel="dofollow"><img src="https://superaiboom.com/assets/images/badge.png" alt="Submission channel: Super AI Boom" width="160"></a>
 
 <a href="https://toolsunderradar.com/tool/xoner4-github" rel="dofollow"><img src="https://toolsunderradar.com/assets/images/badge.png" alt="Submission channel: Tools Under Radar" width="160"></a>
+
+<a href="https://debutpin.com" rel="dofollow"><img src="https://debutpin.com/brand/badge.svg" alt="Submission channel: DebutPin" width="160"></a>
