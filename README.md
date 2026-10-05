@@ -125,3 +125,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://bunny.directory/product/honer-ai" rel="dofollow"><img src="https://bunny.directory/product/honer-ai/badge.svg?theme=light" alt="Submission channel: Bunny Directory" width="160"></a>
 
 <a href="https://besttoolvault.com/tool/xoner4-github" rel="dofollow"><img src="https://besttoolvault.com/assets/images/badge.png" alt="Submission channel: Best Tool Vault" width="160"></a>
+
+<a href="https://aixcollection.com/ai/xoner4-github" rel="dofollow"><img src="https://aixcollection.com/assets/images/badge.png" alt="Submission channel: AI X Collection" width="160"></a>
