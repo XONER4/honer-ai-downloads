@@ -109,3 +109,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://softwarebolt.com/product/xoner4-github" rel="dofollow"><img src="https://softwarebolt.com/assets/images/badge.png" alt="Submission channel: Software Bolt" width="160"></a>
 
 <a href="https://solvertools.com/tool/xoner4-github" rel="dofollow"><img src="https://solvertools.com/assets/images/badge.png" alt="Submission channel: Solver Tools" width="160"></a>
+
+<a href="https://superaiboom.com/ai/xoner4-github" rel="dofollow"><img src="https://superaiboom.com/assets/images/badge.png" alt="Submission channel: Super AI Boom" width="160"></a>
