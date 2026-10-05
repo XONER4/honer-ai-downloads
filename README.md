@@ -45,3 +45,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://dofollow.tools/" rel="dofollow"><img src="https://dofollow.tools/badge/badge_light.svg" alt="Submission channel: Dofollow.Tools" width="160"></a>
 
 <a href="https://aiboom.tools/" rel="dofollow"><img src="https://aiboom.tools/badge/badge_light.svg" alt="Submission channel: AIBoom.Tools" width="160"></a>
+
+<a href="https://deeplaunch.io/" rel="dofollow"><img src="https://deeplaunch.io/badge/badge_light.svg" alt="Submission channel: DeepLaunch.io" width="160"></a>
