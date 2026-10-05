@@ -118,4 +118,3 @@ Directory submission channels (review pending; these links do not imply approval
 
 <a href="https://toolhunter.ai/ai-tool/honer-ai?ref=badge" rel="dofollow"><img src="https://toolhunter.ai/badge/honer-ai.svg?theme=light" alt="Submission channel: Toolhunter" width="160"></a>
 
-<a href="https://beamtools.com/tool/xoner4-github" rel="dofollow"><img src="https://beamtools.com/assets/images/badge.png" alt="Submission channel: Beam Tools" width="160"></a>
