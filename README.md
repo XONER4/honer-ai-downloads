@@ -95,3 +95,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://weliketools.com/tool/xoner4-github" rel="dofollow"><img src="https://weliketools.com/assets/images/badge.png" alt="Submission channel: We Like Tools" width="160"></a>
 
 <a href="https://aibesttop.com" rel="dofollow"><img src="https://aibesttop.com/badges/light.svg" alt="Submission channel: AI Best Top" width="160"></a>
+
+<a href="https://ashlist.com/product/xoner4-github" rel="dofollow"><img src="https://ashlist.com/assets/images/badge.png" alt="Submission channel: Ash List" width="160"></a>
