@@ -64,3 +64,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://firstlook.tools/" rel="dofollow"><img src="https://firstlook.tools/badge/badge_light.svg" alt="Submission channel: FirstLook" width="160"></a>
 
 <a href="https://gets.tools/" rel="dofollow"><img src="https://gets.tools/badge/badge_light.svg" alt="Submission channel: Gets.Tools" width="160"></a>
+
+<a href="https://acidtools.com/ai/xoner4-github" rel="dofollow"><img src="https://acidtools.com/assets/images/badge.png" alt="Submission channel: AcidTools" width="160"></a>
