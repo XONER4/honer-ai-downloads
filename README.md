@@ -51,3 +51,4 @@ Directory submission channels (review pending; these links do not imply approval
 - [SaaS Cubes](https://saascubes.com/)
 
 <a href="https://findly.tools/" rel="dofollow"><img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Submission channel: Findly.tools" width="160"></a>
+- [Wired Business](https://wired.business/)
