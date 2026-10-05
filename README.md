@@ -52,3 +52,5 @@ Directory submission channels (review pending; these links do not imply approval
 
 <a href="https://findly.tools/" rel="dofollow"><img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Submission channel: Findly.tools" width="160"></a>
 - [Wired Business](https://wired.business/)
+
+<a href="https://www.alltoolsdirectory.com/tools/honer-ai-ba994e" rel="dofollow"><img src="https://www.alltoolsdirectory.com/badges/featured-on.svg" alt="Submission channel: AllToolsDirectory" width="160"></a>
