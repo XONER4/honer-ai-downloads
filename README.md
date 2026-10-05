@@ -35,3 +35,5 @@ Directory submission channels (review pending; these links do not imply approval
 - [AI Hustle](https://aihustle.tools/)
 
 <a href="https://theaitoolsdir.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://theaitoolsdir.com/badge/honer-ai.svg" alt="Submission channel: TheAIToolsDir" width="160"></a>
+
+<a href="https://indielineup.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://indielineup.com/badge/honer-ai.svg" alt="Submission channel: IndieLineup" width="160"></a>
