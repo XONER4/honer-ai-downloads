@@ -50,7 +50,7 @@ Directory submission channels (review pending; these links do not imply approval
 - [AI Toolz Dir](https://www.aitoolzdir.com/)
 - [SaaS Cubes](https://saascubes.com/)
 
-<a href="https://findly.tools/" rel="dofollow"><img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Submission channel: Findly.tools" width="160"></a>
+<a href="https://findly.tools/honer-ai?utm_source=honer-ai" rel="dofollow"><img src="https://findly.tools/badges/findly-tools-badge-light.svg" alt="Submission channel: Findly.tools" width="160"></a>
 - [Wired Business](https://wired.business/)
 
 <a href="https://www.alltoolsdirectory.com/tools/honer-ai-ba994e" rel="dofollow"><img src="https://www.alltoolsdirectory.com/badges/featured-on.svg" alt="Submission channel: AllToolsDirectory" width="160"></a>
