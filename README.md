@@ -54,3 +54,5 @@ Directory submission channels (review pending; these links do not imply approval
 - [Wired Business](https://wired.business/)
 
 <a href="https://www.alltoolsdirectory.com/tools/honer-ai-ba994e" rel="dofollow"><img src="https://www.alltoolsdirectory.com/badges/featured-on.svg" alt="Submission channel: AllToolsDirectory" width="160"></a>
+
+<a href="https://launchkoala.com/products/product-02e2e0be" rel="dofollow"><img src="https://launchkoala.com/brand-new/badges/launchkoala-featured-badge.svg" alt="Submission channel: LaunchKoala" width="160"></a>
