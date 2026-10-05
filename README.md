@@ -87,3 +87,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://www.promptfrenzy.com/directory" rel="dofollow"><img src="https://www.promptfrenzy.com/badges/directory-mono-dark.svg" alt="Submission channel: PromptFrenzy" width="160"></a>
 
 <a href="https://aipulse.fyi" rel="dofollow">AI Pulse - AI Tools Directory</a>
+
+<a href="https://navfolders.com/" rel="dofollow"><img src="https://navfolders.com/badge/nav_transparent.svg" alt="Submission channel: NavFolders" width="160"></a>
