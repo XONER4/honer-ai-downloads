@@ -26,3 +26,4 @@ Honer AI is proprietary; its application source code is not distributed here.
 Directory submission channels (review pending; these links do not imply approval):
 - [doforai.tools](https://doforai.tools/)
 - [AISuperHub](https://www.aisuperhub.io/)
+- [AiHubs](https://aihubs.ai/)
