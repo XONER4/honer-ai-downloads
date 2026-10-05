@@ -29,3 +29,4 @@ Directory submission channels (review pending; these links do not imply approval
 - [AiHubs](https://aihubs.ai/)
 - [AIHuntList](https://aihuntlist.com/)
 - [Twelve Tools](https://twelve.tools/)
+- [AIHuntList submission Honer AI](https://aihuntlist.com/tool/honer-ai)
