@@ -37,3 +37,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://theaitoolsdir.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://theaitoolsdir.com/badge/honer-ai.svg" alt="Submission channel: TheAIToolsDir" width="160"></a>
 
 <a href="https://indielineup.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://indielineup.com/badge/honer-ai.svg" alt="Submission channel: IndieLineup" width="160"></a>
+
+<a href="https://saaslineup.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://saaslineup.com/badge/honer-ai.svg" alt="Submission channel: SaaSLineup" width="160"></a>
