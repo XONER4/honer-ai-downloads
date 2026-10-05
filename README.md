@@ -33,3 +33,5 @@ Directory submission channels (review pending; these links do not imply approval
 
 <a href="https://thesaasdir.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://thesaasdir.com/badge/honer-ai.svg" alt="Submission channel: TheSaaSDir" width="160"></a>
 - [AI Hustle](https://aihustle.tools/)
+
+<a href="https://theaitoolsdir.com/product/honer-ai?ref=badge" rel="dofollow"><img src="https://theaitoolsdir.com/badge/honer-ai.svg" alt="Submission channel: TheAIToolsDir" width="160"></a>
