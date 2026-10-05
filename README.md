@@ -119,3 +119,5 @@ Directory submission channels (review pending; these links do not imply approval
 <a href="https://toolhunter.ai/ai-tool/honer-ai?ref=badge" rel="dofollow"><img src="https://toolhunter.ai/badge/honer-ai.svg?theme=light" alt="Submission channel: Toolhunter" width="160"></a>
 
 
+
+<a href="https://aigc160.com/ai/xoner4-github" rel="dofollow"><img src="https://aigc160.com/assets/images/badge.png" alt="Submission channel: AIGC 160" width="160"></a>
